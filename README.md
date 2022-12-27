@@ -11,5 +11,4 @@ as well as some other individual information.
 usually to allow for some kind of eventual analysis. In this case, I’ll be leveraging requests and BeautifulSoup,
 two Python libraries used for accessing websites and parsing HTML , 
 as well as pandas, a Python library that will allow for structuring the information into a manipulable dataframe.
-I’ll be using regular expressions to extract each player’s weight, height, and position from their personal webpages’ HTML.
 
